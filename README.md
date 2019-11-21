@@ -14,3 +14,8 @@ Below is the list of commands implemented
 | command < filename  | use file descriptor 0 (stdin) for filename. If command tries to read from stdin,   effectively it will read from filename. |
 | |                   | pipe command                                                                                                               |
 | exit                | exit from the shell program                                                                                                |
+
+Made by:
+Madhav Sainanee
+Rohan Rajpal
+Savit Gupta
